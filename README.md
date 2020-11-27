@@ -1,15 +1,12 @@
 # RecommenderSystem-CTR_GBDT-LR_LightGBM-sklearn
 
-# GBDT（[LightGBM]https://github.com/Microsoft/LightGBM）
-The part of GBDT is proceeded by LightGBM, which is recently proposed by Microsoft, please install it first
+# GBDT（[LightGBM](https://github.com/Microsoft/LightGBM)）
+The part of GBDT is proceeded by LightGBM.
 
-
-
-# LR（sklearn）
+# LR（[sklearn](https://github.com/scikit-learn/scikit-learn)）
 The part of Logestic Regression is proceeded by sklearn machine learning.
 
-The main idea is from the work of Facebook published in 2014 that merging GBDT and LR for CTR prediction
+# [Practical Lessons from Predicting Clicks on Ads at Facebook](http://quinonero.net/Publications/predicting-clicks-facebook.pdf)
+The main idea is from the work of Facebook published in 2014 that merging GBDT and LR for CTR prediction.
 
-http://quinonero.net/Publications/predicting-clicks-facebook.pdf
-
-GBDT is used for feature transformation while the LR uses the transformed data for prediction
+    GBDT is used for feature transformation while the LR uses the transformed data for prediction
