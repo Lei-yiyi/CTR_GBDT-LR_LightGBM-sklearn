@@ -1,6 +1,6 @@
 # RecommenderSystem-CTR_GBDT-LR_LightGBM-sklearn
 
-# GBDT（[LightGBM]:(https://github.com/Microsoft/LightGBM)）
+# GBDT（[LightGBM]https://github.com/Microsoft/LightGBM）
 The part of GBDT is proceeded by LightGBM, which is recently proposed by Microsoft, please install it first
 
 
