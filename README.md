@@ -15,6 +15,7 @@ The main idea is from the work of Facebook published in 2014 that merging GBDT a
 1）安装 lightgbm 和 sklearn
 
 [lightgbm 安装教程](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html#)
+
 [sklearn 安装教程](https://scikit-learn.org/stable/install.html)
 
 2）下载数据集
